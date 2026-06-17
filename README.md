@@ -24,57 +24,50 @@ Here are some ideas to get you started:
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Full Stack Developer | Competitive Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
+  <img src="https://komarev.com/ghpvc/?username=Prithviraj46274&style=for-the-badge&label=PROFILE+VIEWS&color=0E0B22&labelColor=0A0818" />
 </div>
 
+---
 
-<br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+# 🚀 About Me
 
-<p>
-I'm a third-year Computer Science and Engineering student passionate about building efficient and scalable software. My expertise spans both front-end and back-end development, with a strong foundation in C, C++, Java, and Python. I thrive on challenges and love turning complex problems into clean, practical solutions.
-</p>
+<img align="right" height="270px" width="450px" alt="github_dp_readme" src="https://github.com/user-attachments/assets/72db40a3-78f0-4ccc-951d-250e67074a9f" />
 
+- 🎓 3rd-year Computer Science and Engineering student  
+- 💻 Passionate about Full-Stack Development and scalable software systems  
+- 🌱 Currently exploring Cloud Computing, backend systems, and modern frameworks  
+- ⚡ Love solving DSA problems and participating in competitive programming contests  
+- 🛠️ Building real-world projects and contributing to open source  
+- 📚 Constantly learning and improving every day  
 
-🌱 Actively learning Cloud Computing, and specific frameworks to expand my expertise.
-
-⚡ In my free time, I enjoy participating in competitive programming contests, building projects.
-
-<p align="center">
-<h4>Full-Stack Development | Competitive Programming</h4>
-</p>
-
-
-
-<br />
-
-Languages and Tools
-<p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
-
-
-
-<br />
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Prithviraj46274&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Prithviraj46274&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prithviraj46274&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Prithviraj46274&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 🛠️ Languages and Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mongodb,mysql,aws,gcp,git,github,vscode,bash,linux,npm&theme=dark" />
+
+</div>
+
+<br />
+
+---
+
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Prithviraj46274&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/><br/>
+  
+  <img src="https://streak-stats.demolab.com/?user=Prithviraj46274&theme=dark&hide_border=false" />
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Prithviraj46274&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
 
 <h2 align="center">🤝 Support</h2>
 
