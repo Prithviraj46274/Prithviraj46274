@@ -33,7 +33,7 @@ Full Stack Developer | Competitive Coder <img src="https://media.giphy.com/media
 
 <img align="right" height="270px" width="450px" alt="github_dp_readme" src="https://github.com/user-attachments/assets/72db40a3-78f0-4ccc-951d-250e67074a9f" />
 
-- 🎓 3rd-year Computer Science and Engineering student  
+- 🎓 Final year Computer Science and Engineering student  
 - 💻 Passionate about Full-Stack Development and scalable software systems  
 - 🌱 Currently exploring Cloud Computing, backend systems, and modern frameworks  
 - ⚡ Love solving DSA problems and participating in competitive programming contests  
