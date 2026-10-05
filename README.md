@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <h1>Hi, I'm Prithviraj 👋</h1> <p>A 3rd-year Computer Science and Engineering student.</p> </div>
+<div align="center"> <h1>Hi, I'm Prithviraj 👋</h1> <p>A Final year Computer Science and Engineering student.</p> </div>
 
 <p align='center'>
 </p>
